@@ -1,1 +1,2 @@
-# DBMS_Project
+# EDU-HUB
+A student management system.
